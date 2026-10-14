@@ -2,7 +2,7 @@
 layout: page
 title: Plasma Mirror Design
 description: blah blah blah
-img: assets/img/4.jpg
+img: assets/PLASMA MIRROR ALONE.PNG
 importance: 1
 category: work
 related_publications: true

@@ -4,8 +4,8 @@ title: Plasma Mirror Design
 description: blah blah blah
 img: assets/PLASMA MIRROR ALONE.PNG
 importance: 1
-category: work
-related_publications: true
+category: Work Experience
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
